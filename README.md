@@ -1,6 +1,6 @@
 # ArtificialWorldBuilding
 
-Material for [this](https://hyperlink.academy/events/323) hyperlink course 
+Material for [this](https://hyperlink.academy/courses/artificial-world-building/90/cohorts/82) hyperlink course 
 
 ## Class 0 - How trees grow?
 
