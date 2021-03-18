@@ -2,7 +2,7 @@
 
 Generate 3D cellular automatas.
 
-![3DCA example]("lecture_1/3D/sample.jpeg")
+![3DCA example](/lecture_1/3D/sample.jpeg)
 
 # Requirements
 
