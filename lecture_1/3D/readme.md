@@ -2,7 +2,7 @@
 
 Generate 3D cellular automatas.
 
-![]("lecture_1/3D/sample.jpeg")
+![]("https://github.com/mathigatti/ArtificialWorldBuilding/blob/main/lecture_1/3D/sample.jpeg")
 
 # Requirements
 
