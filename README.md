@@ -8,7 +8,7 @@ Material for [this](https://hyperlink.academy/courses/artificial-world-building/
 
 ## Class 1 - How things grow?
 
-- Coming soon
+- Link to the class [here](https://colab.research.google.com/drive/1uAQ5DfiLU5-P8GqZqVjin7xYi6LOpS88?usp=sharing)
 
 ## Class 2 - How things evolve?
 

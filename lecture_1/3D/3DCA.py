@@ -1,8 +1,8 @@
 import multiprocessing
 from multiprocessing import Manager
-import numpy as np
 import itertools
 
+import numpy as np
 from tqdm import tqdm
 
 moore_neighbourhood = set(itertools.permutations([1,-1]*3 + [0,0], 3))
