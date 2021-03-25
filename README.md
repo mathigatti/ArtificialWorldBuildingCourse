@@ -4,7 +4,7 @@ Material for [this](https://hyperlink.academy/courses/artificial-world-building/
 
 ## Class 0
 - [Colab Intro](https://colab.research.google.com/drive/1zISwRDEe2a0mofnn8t0NGR6j3smggX7a)
-- [How trees grow?]((https://colab.research.google.com/drive/1RywHT63tVgaBDj_AV1MBPuy3wevf5Ia8?usp=sharing))
+- [How trees grow?](https://colab.research.google.com/drive/1RywHT63tVgaBDj_AV1MBPuy3wevf5Ia8?usp=sharing)
 
 ## Class 1
 - [How things grow?](https://colab.research.google.com/drive/1uAQ5DfiLU5-P8GqZqVjin7xYi6LOpS88?usp=sharing)
