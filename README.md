@@ -1,6 +1,8 @@
 # ArtificialWorldBuilding
 
-March 2021 edition of the course at [hyperlink](https://hyperlink.academy/courses/artificial-world-building/90/cohorts/82?tab=Curriculum). To follow the lectures if you are not familiar with Colab try [this tutorial](https://colab.research.google.com/drive/1zISwRDEe2a0mofnn8t0NGR6j3smggX7a).
+Have you ever wondered how tree structure is formed? What about crystals? And what about more complex stuff? How living beings and societies work? If you would like to improve your understanding of the world a little bit more through a practical point of view this is the course for you.
+
+March 2021 [Hyperlink course](https://hyperlink.academy/courses/artificial-world-building/90/cohorts/82?tab=Curriculum) edition. To follow the lectures if you are not familiar with Colab try [this tutorial](https://colab.research.google.com/drive/1zISwRDEe2a0mofnn8t0NGR6j3smggX7a).
 
 ![3DCA example](/2dca.jpg)
 
