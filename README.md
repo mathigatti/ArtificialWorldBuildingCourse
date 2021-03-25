@@ -1,9 +1,8 @@
-
-![3DCA example](/2dca.jpg)
-
 # ArtificialWorldBuilding
 
 March 2021 edition of the course at [hyperlink](https://hyperlink.academy/courses/artificial-world-building/90/cohorts/82?tab=Curriculum). To follow the lectures if you are not familiar with Colab try [this tutorial](https://colab.research.google.com/drive/1zISwRDEe2a0mofnn8t0NGR6j3smggX7a).
+
+![3DCA example](/2dca.jpg)
 
 # Course Syllabus
 
