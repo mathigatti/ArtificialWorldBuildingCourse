@@ -1,4 +1,4 @@
-# ArtificialWorldBuilding
+# Artificial World Building
 
 Have you ever wondered how tree structure is formed? What about crystals? And what about more complex stuff? How living beings and societies work? If you would like to improve your understanding of the world a little bit more through a practical point of view this is the course for you.
 
