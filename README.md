@@ -2,7 +2,9 @@
 
 March 2021 edition of the course at [hyperlink](https://hyperlink.academy/courses/artificial-world-building/90/cohorts/82?tab=Curriculum). To follow the lectures if you are not familiar with Colab try [this tutorial](https://colab.research.google.com/drive/1zISwRDEe2a0mofnn8t0NGR6j3smggX7a).
 
-![3DCA example](/lecture_1/3D/sample.jpeg)
+![3DCA example](/2dca.jpg)
+
+# Course Syllabus
 
 ## Class 0: How trees grow?
 - [Lecture material](https://colab.research.google.com/drive/1RywHT63tVgaBDj_AV1MBPuy3wevf5Ia8?usp=sharing)
