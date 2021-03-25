@@ -2,6 +2,8 @@
 
 Material for [this](https://hyperlink.academy/courses/artificial-world-building/90/cohorts/82?tab=Curriculum) hyperlink course. Enroll [here](https://hyperlink.academy/discount?discount=96f03659-1f95-4ab0-86b5-8295f7b71945) to access the private forum and video lessons. If you are not familiar with Colab try [this tutorial](https://colab.research.google.com/drive/1zISwRDEe2a0mofnn8t0NGR6j3smggX7a).
 
+![3DCA example](/lecture_1/3D/sample.jpeg)
+
 ## Class 0: How trees grow?
 - [Lecture material](https://colab.research.google.com/drive/1RywHT63tVgaBDj_AV1MBPuy3wevf5Ia8?usp=sharing)
 
