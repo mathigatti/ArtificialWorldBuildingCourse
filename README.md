@@ -17,9 +17,9 @@ March 2021 [Hyperlink course](https://hyperlink.academy/courses/artificial-world
 ## Class 2: How things evolve?
 - [Lecture material](https://colab.research.google.com/drive/1mWDm5iw7ewaGu1I7eFgqhkxgjKKcRA1o?usp=sharing)
 
-## Class 3 - How things move?
+## Class 3 - How things learn?
 
-- Coming soon
+- [Lecture material](https://colab.research.google.com/drive/1ZhiCQqIjFooGaNdyBV7PfQTJOZgrLyQD?usp=sharing)
 
 ## Class 4 - How things interact?
 
