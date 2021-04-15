@@ -27,4 +27,4 @@ March 2021 [Hyperlink course](https://hyperlink.academy/courses/artificial-world
 
 ## Class 5 - How things communicate?
 
-- Coming soon
+- [Lecture material](https://colab.research.google.com/drive/1Lkt_E0hdC4lEURVkAAqdU-iDGX2tLmv0#scrollTo=UzlQmD_Huh3K)
